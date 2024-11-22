@@ -1,7 +1,8 @@
 ## Opa, eu sou o Antonio Lucas
+🔥 Também conhecido como "Tony", gosto de programar e quero fazer cada vez mais.
 🏆 Este espaço abriga os resultados dos meus projetos, códigos e experimentos.
 🔭 Trabalhando em Projetos front-end
-🌱 Estudando JS
+🌱 Estudando JS, HTml, CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniilucas&show_icons=true&theme=dracula)
 
