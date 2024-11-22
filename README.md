@@ -4,7 +4,12 @@
 🔭 Trabalhando em Projetos front-end
 🌱 Estudando JS, HTml, CSS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniilucas&show_icons=true&theme=dracula)
+<div>
+    <a href="https://github.com/antoniilucas">
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=antoniilucas&show_icons=true&icon_color=ffd200&rank_=true&theme=dracula"width="400"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniilucas&layout=donut&theme=dracula"/>
+</div>
+<img height="10%" width="15%" src="https://komarev.com/ghpvc/?username=antoniilucas&color=dc143c&style=for-the-badge&color=d6b100" alt="zackstabz"/> 
 
   💻 Learning
 <div style="display: inline_block"><br>
