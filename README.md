@@ -5,7 +5,7 @@
 
 🔭 Trabalhando em Projetos front-end
 
-🌱 Estudando JS, HTml, CSS
+🌱 Estudando JS, HTml, CSS e React
 
 
 <div>
