@@ -1,6 +1,8 @@
 ## Antonio Lucas
 🔥 Também conhecido como "Tony", gosto de programar e quero fazer cada vez mais.
+
 🏆 Este espaço abriga os resultados dos meus projetos, códigos e experimentos.
+
 🔭 Trabalhando em Projetos front-end
 
 🌱 Estudando JS, HTml, CSS e React
