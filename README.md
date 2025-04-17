@@ -1,5 +1,6 @@
 ## 💻 Antonio Lucas
-Desenvolvedor FullStack
+*Desenvolvedor FullStack*
+
 Ola me chamo Antonio Lucas, tenho 20 anos e sou de Maceió/AL. Desde 2023 venho me dedicando ao desenvolvimento web, explorando tecnologias como HTML, CSS e JavaScript.
 
 Sou apaixonado por criar sites e interfaces funcionais, sempre buscando aprender novas ferramentas e evoluir como desenvolvedor. Meu objetivo é seguir carreira na área, unindo criatividade e tecnologia.
