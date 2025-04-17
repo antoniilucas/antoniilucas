@@ -1,12 +1,8 @@
-## Antonio Lucas
-🔥 Também conhecido como "Tony", gosto de programar e quero fazer cada vez mais.
+## 💻 Antonio Lucas
+Desenvolvedor FullStack
+Me chamo Antonio Lucas, tenho 20 anos e sou de Maceió/AL. Desde 2023 venho me dedicando ao desenvolvimento web, explorando tecnologias como HTML, CSS e JavaScript.
 
-🏆 Este espaço abriga os resultados dos meus projetos, códigos e experimentos.
-
-🔭 Trabalhando em Projetos front-end
-
-🌱 Estudando JS, HTml, CSS e React
-
+Sou apaixonado por criar sites e interfaces funcionais, sempre buscando aprender novas ferramentas e evoluir como desenvolvedor. Meu objetivo é seguir carreira na área, unindo criatividade e tecnologia.
 
 <div>
     <a href="https://github.com/antoniilucas">
